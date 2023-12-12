@@ -10,9 +10,6 @@ import testPic1 from "./components/Images/testimonials-1.jpg"
 import testPic2 from "./components/Images/testimonials-2.jpg"
 import testPic3 from "./components/Images/testimonials-3.jpg"
 import Footer from './components/Footer'
-
-import './App.css'
-
 function App() {
 
   let icons = [{
